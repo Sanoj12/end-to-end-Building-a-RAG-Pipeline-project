@@ -1,0 +1,7 @@
+numpy 
+huggingface
+wikipedia
+faiss-cpu
+transformers==4.41.2 
+sentence-transformers==2.2.2
+streamlit
